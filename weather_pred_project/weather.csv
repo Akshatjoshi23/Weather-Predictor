@@ -1,0 +1,9 @@
+Temperature,Humidity,Windy,Weather
+85,85,0,Rainy
+80,90,1,Rainy
+83,86,0,Sunny
+70,96,0,Rainy
+68,80,0,Sunny
+65,70,1,Sunny
+72,90,1,Rainy
+75,70,0,Sunny
